@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pruban; Melanie;
+FN:Melanie Pruban
+ORG:allaboutHRLaw GmbH
+TITLE:Regional Head
+TEL;TYPE=work,voice:+49 1733060898
+EMAIL: mpr@allabouthrlaw.com
+URL: https://allabouthrlaw.com/
+ADR;TYPE=work:;;Friedrichshafner Str. 72; Leipzig; 04357;
+END:VCARD
